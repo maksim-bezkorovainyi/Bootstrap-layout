@@ -1,0 +1,13 @@
+.header{
+	background-image: url('../img/top-banner.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+
+.bg-success {
+	background-color: tomato!important;
+}
+
